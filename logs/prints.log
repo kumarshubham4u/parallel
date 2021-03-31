@@ -1,0 +1,8 @@
+12:12:07.177 [TestNG-test=Test-1] INFO  resources.baseTest - Login Link is clicked
+12:12:07.191 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in email field
+12:12:07.434 [TestNG-test=Test-1] INFO  resources.baseTest - Email id is provided
+12:12:07.434 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in password field
+12:12:07.616 [TestNG-test=Test-1] INFO  resources.baseTest - password is provided
+12:12:07.616 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login button
+12:12:08.105 [TestNG-test=Test-1] INFO  resources.baseTest - Login button is clicked
+12:12:08.521 [TestNG-test=Test-1] INFO  resources.baseTest - Closing the browser

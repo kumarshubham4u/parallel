@@ -1,0 +1,47 @@
+10:57:35.999 [TestNG-tests-1] DEBUG resources.baseTest - Sending keys in password field
+10:57:36.166 [TestNG-tests-1] INFO  resources.baseTest - password is provided
+10:57:36.167 [TestNG-tests-1] DEBUG resources.baseTest - Clicking on Login button
+10:57:36.659 [TestNG-tests-1] INFO  resources.baseTest - Login button is clicked
+10:57:36.660 [TestNG-tests-1] DEBUG resources.baseTest - Clicking on Forgot Password button
+10:57:37.284 [TestNG-tests-1] INFO  resources.baseTest - Forgot Password button is clicked
+10:57:37.284 [TestNG-tests-1] DEBUG resources.baseTest - Sending keys in email field
+10:57:37.393 [TestNG-tests-1] INFO  resources.baseTest - Email id is provided
+10:57:37.393 [TestNG-tests-1] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+10:57:37.484 [TestNG-tests-1] INFO  resources.baseTest - Send Me Instruction button is clicked
+12:09:49.046 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+12:09:58.406 [TestNG-test=Test-2] INFO  resources.baseTest - Navigation Bar validated
+12:11:00.682 [TestNG-test=Test-2] INFO  resources.baseTest - Navigation Bar validated
+12:11:01.305 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+12:11:03.915 [TestNG-test=Test-1] INFO  resources.baseTest - Login Link is clicked
+12:11:03.916 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in email field
+12:11:04.310 [TestNG-test=Test-1] INFO  resources.baseTest - Email id is provided
+12:11:04.310 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in password field
+12:11:04.483 [TestNG-test=Test-1] INFO  resources.baseTest - password is provided
+12:11:04.483 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login button
+12:11:04.910 [TestNG-test=Test-1] INFO  resources.baseTest - Login button is clicked
+12:11:04.911 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Forgot Password button
+12:11:06.481 [TestNG-test=Test-1] INFO  resources.baseTest - Forgot Password button is clicked
+12:11:06.481 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in email field
+12:11:06.667 [TestNG-test=Test-1] INFO  resources.baseTest - Email id is provided
+12:11:06.667 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+12:11:06.729 [TestNG-test=Test-1] INFO  resources.baseTest - Send Me Instruction button is clicked
+12:11:20.041 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+12:11:22.140 [TestNG-test=Test-1] INFO  resources.baseTest - Login Link is clicked
+12:11:22.140 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in email field
+12:11:22.291 [TestNG-test=Test-1] INFO  resources.baseTest - Email id is provided
+12:11:22.291 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in password field
+12:11:22.455 [TestNG-test=Test-1] INFO  resources.baseTest - password is provided
+12:11:22.456 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login button
+12:11:22.829 [TestNG-test=Test-1] INFO  resources.baseTest - Login button is clicked
+12:11:22.830 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Forgot Password button
+12:11:23.390 [TestNG-test=Test-1] INFO  resources.baseTest - Forgot Password button is clicked
+12:11:23.391 [TestNG-test=Test-1] DEBUG resources.baseTest - Sending keys in email field
+12:11:23.681 [TestNG-test=Test-1] INFO  resources.baseTest - Email id is provided
+12:11:23.682 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+12:11:24.015 [TestNG-test=Test-1] INFO  resources.baseTest - Send Me Instruction button is clicked
+12:11:29.773 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+12:11:52.637 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+12:11:52.638 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+12:11:57.917 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+12:12:05.535 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+12:12:05.536 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link

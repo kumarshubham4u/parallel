@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 108.134 s <<< FAILURE! - in TestSuite
+testCases.Test_script_Test2.validateElements  Time elapsed: 2.77 s  <<< FAILURE!
+java.lang.AssertionError: expected [info@qaclickacademy.coms] but found [info@qaclickacademy.com]
+	at testCases.Test_script_Test2.validateElements(Test_script_Test2.java:36)
+
